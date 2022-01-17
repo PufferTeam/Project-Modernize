@@ -14,3 +14,6 @@ A texture pack that retexture 1.12 mods to use JAPPA style.
 | Thermal Expansion  | In Progress 🟡 |
 | Thermal Foundation | Not started ❌ |
 | Tinkers' Construct | Not started ❌ |
+| Construct Armory | Not started ❌ |
+| GregTech CE: Unofficial | Not started ❌ |
+| Gregicality Multiblocks | Not started ❌ |
