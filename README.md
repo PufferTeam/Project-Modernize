@@ -6,6 +6,7 @@ A texture pack that retexture 1.12 mods to use JAPPA style.
 | Mod  | State |
 | ------------- | ------------- |
 | Applied Energistics 2 | Finished ✅ |
+| Big Reactors | Finished ✅ |
 | AE Additions | Not started ❌ |
 | Forestry | Not started ❌ |
 | Gendustry | Not started ❌ |
